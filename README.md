@@ -49,6 +49,7 @@
 >
 > - Julieta Ayesa
 > - Teddy Anangwe
+> - Stephen Sifa
 > - [Team Member 3]
 >
 > ---
